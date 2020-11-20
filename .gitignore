@@ -1,2 +1,6 @@
 *.pdf
 *.pages
+pyparrot
+papers
+legacy
+.DS_Store
