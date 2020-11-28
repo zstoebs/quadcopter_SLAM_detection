@@ -1,3 +1,9 @@
+cascades
+pyslam
+tello
+demo*
+groundsdk-ios-samples
+pod_groundsdk_demo
 *.pdf
 *.pages
 pyparrot
