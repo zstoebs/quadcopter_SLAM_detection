@@ -1,5 +1,7 @@
 # SLAM and Object Detection
 
+**For the time being, this project is defunct. Working implementations of these algorithms on a UAV (Ryze Tello using Matlab) can be found in my tello_detection_SLAM repository.**
+
 Demonstration of SLAM and object detection with a Parrot ANAFI. The code depends on [pyparrot](https://github.com/amymcgovern/pyparrot). Pyparrot is a Python API for Parrot quadcopters and I'm extremely thankful for the owner's work, after running into every issue that one could possibly have with the Parrot GroundSDK. 
 
 ## Usage
